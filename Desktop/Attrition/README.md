@@ -8,19 +8,19 @@
 
 # Data Exploration
 
-#### * Loaded data and dropped unimportant columns (ones that had only one unique value).
+* Loaded data and dropped unimportant columns (ones that had only one unique value).
 
 # Data Analysis 
 
-#### * Plotted all numeric columns to see the distribution od data;
+* Plotted all numeric columns to see the distribution od data;
 
-#### * Plotted charts of Attrition vs Department, JobLevel, Gender, JobRole, PercentSalaryHike;
+* Plotted charts of Attrition vs Department, JobLevel, Gender, JobRole, PercentSalaryHike;
 
-#### * Plotted distribution of TotalWorkingYears, Age and MonthlyIncome by Gender;
+* Plotted distribution of TotalWorkingYears, Age and MonthlyIncome by Gender;
 
-#### * After getting familiar with the data, should plot Correlation Matrix to find important correlations and interesting facts;
+* After getting familiar with the data, should plot Correlation Matrix to find important correlations and interesting facts;
 
-#### * Marked some important correlations as:
+* Marked some important correlations as:
 	 * MonthlyIncome vs JobLevel;
 	 * JobLevel, MonthlyIncome, TotalWorkingYears vs Age;
 	 * PerformanceRanting vs PercentSalaryHike;
@@ -86,10 +86,10 @@
 
 # Summary
 
-#### * Precision score: Grid Search Random Forest Classifier gained best result (0.818). XGBClassifier also did well (0.737), but the rest of the models didn't show such results. Naive Bayes got less than 0.3;
+* Precision score: Grid Search Random Forest Classifier gained best result (0.818). XGBClassifier also did well (0.737), but the rest of the models didn't show such results. Naive Bayes got less than 0.3;
 
-#### * Recall score: Naive Bayes became a complete winner with the result of 0.754. Other models were not even close;
+* Recall score: Naive Bayes became a complete winner with the result of 0.754. Other models were not even close;
 
-#### * F1 score: Logistic Regression and linear SVC are the leaders with scores of 0.516 and 0.495 respectively. The rest of the models can't be proud of their results;
+* F1 score: Logistic Regression and linear SVC are the leaders with scores of 0.516 and 0.495 respectively. The rest of the models can't be proud of their results;
 
-#### * Roc auc score: Naive Bayes and Logistic Regression are the leaders as well with scores of 0.712 and 0.691 respectively. SVC got almost the same results as Logistic Regression (0.681).
+* Roc auc score: Naive Bayes and Logistic Regression are the leaders as well with scores of 0.712 and 0.691 respectively. SVC got almost the same results as Logistic Regression (0.681).
