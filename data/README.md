@@ -4,7 +4,7 @@
 
 ### Previev
 
-![table previev](~/data/data_head.png)
+![table previev](data/data_head.png)
 
 #### Column meaning
 | Education           | EnvironmentSatisfaction | JobInvolvement  | JobSatisfaction | PerformanceRating | RelationshipSatisfaction | WorkLifeBalance |
