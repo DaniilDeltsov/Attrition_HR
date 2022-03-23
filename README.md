@@ -4,7 +4,7 @@
 
 #### Explarotary data analysis was carried out in order to understand some key factors (and find some key features) why eployees suffer from attrition and how to detect it. 
 
-# ---------------------------------------------------------------------------
+# ----------------------------------------------------------------
 
 # Data Exploration
 
