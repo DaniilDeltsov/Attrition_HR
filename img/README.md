@@ -1,5 +1,5 @@
 # Directory contains of charts: 
 
-## Got during data exploration
+* Got during data exploration
 
-## Used in README.md
+* Used in README.md
