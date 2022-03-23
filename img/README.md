@@ -1,4 +1,4 @@
-# Directory contains of charts: 
+# Directory contains charts: 
 
 * Got during data exploration
 
