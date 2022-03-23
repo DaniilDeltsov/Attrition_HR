@@ -4,7 +4,7 @@
 
 ### Previev
 
-![table previev](https://github.com/DaniilDeltsov/Attrition_HR/tree/master/img/data_head.png)
+![table previev](~/img/data_head.png)
 
 #### Column meaning
 | Education           | EnvironmentSatisfaction | JobInvolvement  | JobSatisfaction | PerformanceRating | RelationshipSatisfaction | WorkLifeBalance |
