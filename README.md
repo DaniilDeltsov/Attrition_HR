@@ -26,15 +26,15 @@
 	 * PerformanceRanting vs PercentSalaryHike;
 	 * TotalWorkingYears vs JobLevel vs MonthlyIncome.
 
-#### * Plotted non-obvious correlations;
+* Plotted non-obvious correlations;
 
 # Data Preprocessing
 
-#### * Encoded categorical columns into numeric;
+* Encoded categorical columns into numeric;
 
-#### * Standardized data using StandardScaler
+* Standardized data using StandardScaler
 
-#### * Splited data to train and test
+* Splited data to train and test
 
 # Training Models
 
