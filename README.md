@@ -37,6 +37,7 @@
 * Splited data to train and test
 
 # Training Models
+## Didn't use "accuracy" due to high imbalance in classes (1233 non-attrition vs 237 attrition)
 
 ### Logistic Regression 
 * Precision_score: 0.667
@@ -82,7 +83,23 @@
 
 # Plotting and Comparing Results
 
-##### add charts
+##### Roc Auc Curve for Logistic Regression, Random Forest and SVC
+![LogReg RandFor SVC](img/LogReg_RandFor_SVC.png)
+
+##### Roc Auc Curve for KNN, Naive Bayes and XGB
+![KNN Bayes XGB](img/KNN_Bayes_XGB.png)
+
+##### Precision Score
+![precision](img/Precesion.png)
+
+##### Recall Score 
+![recall](img/Recall.png)
+
+##### F1 Score
+![f1](img/F1.png)
+
+##### Roc Auc Score
+![roc](img/Roc_auc.png)
 
 # Summary
 
